@@ -1,5 +1,5 @@
 body {
-  background: #000;
+  background: linear-gradient(45deg, #7321f7, transparent);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -7,6 +7,6 @@ body {
 }
 
 h1 {
-  color: aliceblue;
+  color: #000;
   font-size: 100%;
 }
